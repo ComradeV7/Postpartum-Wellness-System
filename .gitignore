@@ -7,9 +7,6 @@ venv/
 # Data folder (Too big for GitHub)
 data/
 
-# Model files
-*.h5
-*.joblib
 voice_model_directory/
 
 # Python cache
