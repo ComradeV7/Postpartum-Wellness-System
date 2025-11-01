@@ -1,0 +1,17 @@
+# Python environments
+awesome-rec-env/
+ai-ml-gpu-env/
+venv/
+/env/
+
+# Data folder (Too big for GitHub)
+data/
+
+# Model files
+*.h5
+*.joblib
+voice_model_directory/
+
+# Python cache
+__pycache__/
+*.pyc
